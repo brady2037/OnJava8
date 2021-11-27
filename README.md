@@ -58,24 +58,8 @@
 - [x] [附录:C++ 和 Java 的优良传统](docs/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md)
 - [ ] [附录:成为一名程序员](docs/book/Appendix-Becoming-a-Programmer.md)
 
-
-## 一起交流
-
-交流群：721698221 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=4cb8bdc26879e544a0e1c2027305afef699029d5c0f314099a239b7c4f309c5f"><img border="0" src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/docs/images/qqgroup.png" alt="OnJava8翻译交流" title="OnJava8翻译交流"></a>( 点击图标即可加入 )<br> 加群时请简单备注下来源或说明
-
-<div align="left">
-<img src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/assets/QQGroupQRCode.png"  alt="QQGroupQRCode"/>
- </div>
-
-## 大事记
-
-- 2018-11-20 初始化项目
-
 ## 原书资料
 
-<div align="left">
-<img src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/cover_small.jpg"  alt="cover_small"/>
- </div>
 
 - 作者: Bruce Eckel
 - ISBN: 9780981872520
@@ -100,24 +84,3 @@
 3. 由于中英行文差异，完全的逐字逐句翻译会很冗余啰嗦。所以本人在翻译过程中，去除了部分主题无关内容、重复描写。
 4. 译者在翻译中同时参考了谷歌、百度、有道翻译的译文。最后结合译者自己的理解进行本地化，尽量做到专业和言简意赅，方便大家更好的理解学习。
 5. 由于译者个人能力、时间有限，如有翻译错误和笔误的地方，还请大家批评指正！
-
-## 如何参与
-
-如果你想对本书做出一些贡献的话  
-可以在阅读本书过程中帮忙校对，找 bug 错别字等等  
-可以提出专业方面的修改建议  
-可以把一些不尽人意的语句翻译的更好更有趣  
-对于以上各类建议，请以 issue 或 pr 的形式发送，我看到之后会尽快处理  
-使用 MarkDown 编辑器，md 语法格式进行文档翻译及排版工作  
-完成之后 PullRequest  
-如没问题的话，我会合并到主分支  
-如不熟悉 md 排版，可不必纠结，我会在合并 pr 时代为排版  
-如还有其它问题，欢迎发送 issue，谢谢~
-
-## 开源协议
-
-本项目基于 MIT 协议开源。
-
-## 联系方式
-
-- E-mail : <lingcoder@gmail.com>
